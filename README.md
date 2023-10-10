@@ -1,4 +1,5 @@
 # YouTube AdBlocker
+![Screenshot 2023-10-10 145040](https://github.com/41FUTURE/YouTube-AdBlocker/assets/99112509/814df7b7-7996-40de-95ba-4f9339266638)
 
 A simple Chrome extension to block the popup message on YouTube that prompts users to disable their ad blocker.
 
